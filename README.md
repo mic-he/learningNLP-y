@@ -1,5 +1,5 @@
 # learningNLP-y
-Tutorials about NLP with Python (scikit-learn, nltk, gensim, spacy, keras, pytorch)
+Tutorials about NLP with Python: a bunch of Jupyter notebooks in which I try to teach myself the basics of scikit-learn, nltk, gensim, spacy, keras and pytorch.
 
 Basics:
 
