@@ -24,6 +24,6 @@ PyTorch:
 
 3) Name generation with RNNs
 
-4)Neural machine translation with attention
+4) Neural machine translation with attention
 
 
