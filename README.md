@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # learningNLP-y
 Tutorials about NLP with Python (scikit-learn, nltk, gensim, spacy, keras, pytorch)
 
