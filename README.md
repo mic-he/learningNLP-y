@@ -1,6 +1,10 @@
 # learningNLP-y
 Tutorials about NLP with Python (scikit-learn, nltk, gensim, spacy, keras, pytorch)
 
+Basics:
+
+Text analysis and NLP with Spacy and NLTK, classification with scikit-learn.
+
 Keras:
 
 1) Text classification with Keras: the notebook explores a few deep learning approaches to binary sentiment classification on three datasets of reviews (imdb, yelp, amazon), including loading pre-trained glove word embeddings
@@ -11,4 +15,15 @@ Keras:
 
 4) Neural Language modeling with Keras: the notebook contains a few toy examples of neural language modeling in Keras.
 
-NOTE: This is mostly intended as self-teaching material. Most of the code comes from other sources (credits in each notebook).
+
+PyTorch:
+
+1) Introduction to PyTorch
+
+2) Classification of names with RNNs
+
+3) Name generation with RNNs
+
+4)Neural machine translation with attention
+
+
